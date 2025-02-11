@@ -15,7 +15,7 @@ img {
 
 .primeirasecao {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 1000px;
     height: 500px;
     background-color: rgb(86, 226, 43);
